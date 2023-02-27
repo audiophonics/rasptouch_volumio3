@@ -89,7 +89,7 @@ Avant de continuer, utilisez le lien montré ci-dessus dans votre interface web 
 
 ### Installation du clavier virtuel
 
-Tout semble fonctionnel à présent, mais tentez d'utiliser la barre de recherche et vous remarquerez sans doute qu'il vous faut brancher un clavier pour rechercher vos pistes dans l'interfaéce web Volumio.
+Tout semble fonctionnel à présent, mais tentez d'utiliser la barre de recherche et vous remarquerez sans doute qu'il vous faut brancher un clavier physique pour rechercher vos pistes dans l'interface web Volumio.
 
 Il existait un plugin clavier virtuel sous Volumio 2 qui permettait de faire apparaître un clavier directement sur l'écran tactile. Malheureusement, celui-ci n'est pas compatible avec Volumio 3.
 
