@@ -34,7 +34,7 @@ Une installation complète implique 4 actions distinctes.
 
 - Ouvrez l'interface web Volumio
 - Rendez-vous dans la section Options de lecture
-- Placez le selecteur 12S DAC en position ON
+- Placez le selecteur I2S DAC en position ON
 - Dans le menu déroulant DAC Model sélectionnez l'option Audiophonics I-Sabre ES9028Q2M
 - Sauvegardez et cliquez sur le bouton Redémarrer
 - Attendez quelques minutes que l'appareil redémarre
