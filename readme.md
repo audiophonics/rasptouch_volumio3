@@ -128,4 +128,11 @@ Click on the text field.
 ![](https://www.audiophonics.fr/img/cms/Images/Blog/rasptouch_volumio_2023/keyboard_2.jpg)
 
 Check that the virtual keyboard is displaying.
- 
+
+--- 
+
+--- 
+
+### Last resort solution if you cannot get the above procedure to work. 
+As a **last resort** you may try this [experimental installation procedure](https://github.com/audiophonics/rasptouch_volumio3/tree/the_hacky_way)
+
