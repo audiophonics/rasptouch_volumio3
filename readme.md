@@ -1,3 +1,6 @@
+*Ce document est également disponible en [Français](https://github.com/audiophonics/rasptouch_volumio3/blob/main/readme.fr.md)*
+
+---
 
 Since Volumio 3 is out, it is not as easy as it used to be to install this operating system on a RaspTouch. Here is a walkthrough to find back all the device's functions under a recent version of Volumio *(last update 27/02/2023)*
 
