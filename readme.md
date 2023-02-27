@@ -46,7 +46,7 @@ A complete install needs 4 steps.
 
 Since Volumio 3, you need a MyVolumio account to use plugins. A free account is enough for our needs.
 
-Before continuing,open the link shown above and follow the instructions to create your account.
+Before continuing, open the link shown above and follow the instructions to create your account.
 
 ---
 
