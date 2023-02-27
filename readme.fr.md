@@ -101,7 +101,7 @@ Voici ce que nous allons faire expliqué en langage vernaculaire :
 - Nous allons télécharger une extension chromium clavier virtuel. Nous choisissons ici celui de [xontab](https://github.com/xontab/chrome-virtual-keyboard) qui est gratuit et fonctionnel.
 - Puis nous éditerons le script en charge de lancer ce navigateur web afin qu'il charge notre extension automatiquement.
  
-oici comment cela se traduit en lignes de commandes
+Voici comment cela se traduit en lignes de commandes
 
  ```
 cd /home/volumio/
