@@ -130,3 +130,12 @@ Cliquez dans le champ texte.
 
 Vérifiez que le clavier virtuel apparaît à l'écran.
  
+
+--- 
+
+--- 
+
+### Solution de DERNIER RECOURS si vous ne parvenez pas à utiliser la procédure ci-dessus
+En **dernier recours** vous pouvez essayer cette [procédure d'installation expérimentale](https://github.com/audiophonics/rasptouch_volumio3/tree/the_hacky_way)
+
+
