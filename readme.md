@@ -10,6 +10,7 @@
 * Do **NOT** under *any circumstances* touch anything after running the line of code.
 	* The display will prompt you to reboot at some point :no_entry_sign: ignore this request. Do not click anywhere in the web interface, either in your web browser or on the touch display. 
 	* The RaspTouch will reboot by itself when the time is right.
+	* The terminal in your SSH session will write explicitely : ```done, device will reboot now```. After the reboot, it is safe to use your RaspTouch the normal way.
 
 *  The installation takes around 15-20 minutes even with a fast internet connection. It is normal, just be patient and again do not touch anything after running this line of code. 
 
