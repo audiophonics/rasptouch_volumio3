@@ -85,13 +85,17 @@ Before continuing, open the link shown above and follow the instructions to crea
 
 ---
 
-### Installing a virtual keyboard
+### Installing a virtual keyboard 
 
-Everything seems to work now, but try using the search bar and you may notice that you need to plug in a keyboard to search for your tracks in the Volumio web interface.
+**Sarting from version 3.5.0 the Touch Plugin already has an option to handle the virtual keyboard**
 
-There used to be a virtual keyboard plugin in Volumio 2 which made it possible to display a keyboard directly on the touch screen. Unfortunately, this one is no longer compatible with Volumio 3.
-
-However we can reproduce this behavior quite easily with a few SSH commands.
+ ![](https://www.audiophonics.fr/img/cms/Images/Blog/rasptouch_volumio_2023/plugin_kb.jpg)Open the plugin configuration and enable the virtual keyboard.  
+   
+<br>
+<details>
+  <summary>My version of the plugin is inferior to 3.5.0 and I don't have this option</summary>
+<br>
+Until your system is elligible to the 3.5.0 Touch plugin, here is a workaround with a few SSH commands: 
 
 Here's what we're going to do explained in the vernacular :
 
@@ -128,6 +132,12 @@ Click on the text field.
 ![](https://www.audiophonics.fr/img/cms/Images/Blog/rasptouch_volumio_2023/keyboard_2.jpg)
 
 Check that the virtual keyboard is displaying.
+
+	
+</details>
+  
+  
+  
 
 --- 
 
