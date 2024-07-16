@@ -87,7 +87,7 @@ Before continuing, open the link shown above and follow the instructions to crea
 
 ### Installing a virtual keyboard 
 
-**Sarting from version 3.5.0 the Touch Plugin already has an option to handle the virtual keyboard**
+**Starting from version 3.5.0 the Touch Plugin already has an option to handle the virtual keyboard**
 
  ![](https://www.audiophonics.fr/img/cms/Images/Blog/rasptouch_volumio_2023/plugin_kb.jpg)Open the plugin configuration and enable the virtual keyboard.  
    
