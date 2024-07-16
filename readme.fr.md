@@ -89,11 +89,17 @@ Avant de continuer, utilisez le lien montré ci-dessus dans votre interface web 
 
 ### Installation du clavier virtuel
 
-Tout semble fonctionnel à présent, mais tentez d'utiliser la barre de recherche et vous remarquerez sans doute qu'il vous faut brancher un clavier physique pour rechercher vos pistes dans l'interface web Volumio.
 
-Il existait un plugin clavier virtuel sous Volumio 2 qui permettait de faire apparaître un clavier directement sur l'écran tactile. Malheureusement, celui-ci n'est pas compatible avec Volumio 3.
+**à partir de sa version 3.5.0, le plugin Touch Display intègre nativement un clavier virtuel**
 
-Pas de panique, nous pouvons reproduire ce comportement assez facilement avec quelques commandes en SSH.
+ ![](https://www.audiophonics.fr/img/cms/Images/Blog/rasptouch_volumio_2023/plugin_kb.jpg)Ouvrez simplement la page de configuration du plugin et activez le clavier virtuel. 
+
+
+<br>
+<details>
+  <summary>Ma version du plugin est inférieure à 3.5.0 et je n'ai pas cette option</summary>
+<br>
+En attendant que votre système soit elligible à la version 3.5.0, voici une solution alternative avec quelques commandes en SSH.
 
 Voici ce que nous allons faire expliqué en langage vernaculaire :
 
@@ -130,6 +136,10 @@ Cliquez dans le champ texte.
 
 Vérifiez que le clavier virtuel apparaît à l'écran.
  
+
+	
+</details>
+
 
 --- 
 
